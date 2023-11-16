@@ -28,11 +28,11 @@ export default function Home() {
           </a>
 
           <a
-            href='https://github.com/vedant29/Project-CSCI-1000'
+            href='/Deven'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Deven's about me page&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Click here for Deven's about me page.
             </p>
           </a>
           <a

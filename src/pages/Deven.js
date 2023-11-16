@@ -15,8 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hello, I'm Deven. I'm a student at CU Boulder and I enjoy programming
-            , hacking, and the outdoors. I'm not super sure what else to put here
+            Hello, I'm Deven. I'm a student at CU Boulder and I enjoy programming,
+            hacking, and the outdoors. I'm not super sure what else to put here
             so I guess I'll just say I learned how to program in Python but I'm now
             learning C++. I aspire to a career in cybersecurity, though I am not
             yet sure which area specifically I want to get into.
