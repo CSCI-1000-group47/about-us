@@ -1,5 +1,5 @@
 import Head from 'next/head'
-
+// This website is hosted at https://csci1000-group47-about-us.netlify.app/
 export default function Home() {
   return (
     <div className='container'>
